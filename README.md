@@ -3,7 +3,7 @@ The Short-term Aerial Reconnaissance Drone (STAR) is a senior design project fro
 
 ![Star 3d render](/images/Star%203d%202.PNG)
 
-The project's objective was to develop an affordable, remote-controlled surveillance drone that could be launched from a 40mm tube. The project also had strict requirements for flight time, range, deployment time, weight, and image quality, adding to its complexity.
+The project's objective was to develop an affordable, remote-controlled surveillance drone that could be launched from a 40mm tube. The project also had strict requirements for flight time, range, deployment time, weight, image quality, and many others, that added to its complexity.
 
 ![STAR going up](/images/Star%20air%20going%20up.PNG)
 ![STAR in the air](/images/Star%20air%201.PNG)
