@@ -9,7 +9,7 @@ The project's objective was to develop an affordable, remote-controlled surveill
 ![STAR in the air](/images/Star%20air%201.PNG)
 
 This team successfully met and exceeded all mission requirements set by Raytheon during a series of tests in Red Rock, Arizona, on April 21, 2024. During these tests, a STAR drone was successfully launched from a 40mm pneumatic launcher, deployed at an altitude of over 100 meters, and flew under its own power while transmitting live video back to its operators.
-
+This project won an award for the best UAS system.
 
 The team, pictured from left to right, consisted of five members: Nathan Julicher (Mechanical Engineering), Thomas Schwab (Computer Engineering), Chuy Talavera (Mechanical Engineering), Max Ybarra (Mechanical Engineering), and Jason Li (Systems Engineering).
 
