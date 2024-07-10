@@ -1,7 +1,10 @@
 # S.T.A.R.
 The Short-term Aerial Reconnaissance Drone (STAR) is a senior design project from the University of Arizona, completed in May 2024 with sponsorship from Raytheon.
+
 ![Star 3d render](/images/Star%203d%202.PNG)
+
 The project's objective was to develop an affordable, remote-controlled surveillance drone that could be launched from a 40mm tube. The project also had strict requirements for flight time, range, deployment time, weight, and image quality, adding to its complexity.
+
 ![STAR going up](/images/Star%20air%20going%20up.PNG)
 ![STAR in the air](/images/Star%20air%201.PNG)
 
@@ -9,4 +12,5 @@ This team successfully met and exceeded all mission requirements set by Raytheon
 
 
 The team, pictured from left to right, consisted of five members: Nathan Julicher (Mechanical Engineering), Thomas Schwab (Computer Engineering), Chuy Talavera (Mechanical Engineering), Max Ybarra (Mechanical Engineering), and Jason Li (Systems Engineering).
+
 ![The STAR team](/images/IMG_1754.jpg)
