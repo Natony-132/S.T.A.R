@@ -16,5 +16,7 @@ The team, pictured from left to right, consisted of five members: Nathan Juliche
 ![The STAR team](/images/IMG_1754.jpg)
 
 Video of the STAR drone:
+
 https://youtu.be/qtn-dUmLC7A
+
 https://youtu.be/Oheb4Yst8Lk
