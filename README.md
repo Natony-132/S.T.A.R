@@ -14,3 +14,4 @@ This project won an award for the best UAS system.
 The team, pictured from left to right, consisted of five members: Nathan Julicher (Mechanical Engineering), Thomas Schwab (Computer Engineering), Chuy Talavera (Mechanical Engineering), Max Ybarra (Mechanical Engineering), and Jason Li (Systems Engineering).
 
 ![The STAR team](/images/IMG_1754.jpg)
+https://youtu.be/qtn-dUmLC7A
